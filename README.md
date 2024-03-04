@@ -1,5 +1,5 @@
 # Connecto-api
-Tried to improve the blood donation community. It is a social media back-end app using react with authentication, follow, like, comment, and sharing post features.
+Tried to improve the blood donation community. It is a social media back-end app using express, with authentication, follow, like, comment, and sharing post features.
 
 ## Available Scripts
 
